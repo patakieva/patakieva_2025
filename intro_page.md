@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: base
 title: Eva Pages Intro
 description: "My Intro"
 author: Eva Pataki
