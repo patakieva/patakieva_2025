@@ -1,4 +1,11 @@
-# Hey there!
+---
+layout: post
+title: Eva Pages Intro
+description: "My Intro"
+author: Eva Pataki
+---  
+
+## Hey there!
 
 Hey! I'm Eva Pataki.
 
