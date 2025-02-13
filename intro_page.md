@@ -3,6 +3,7 @@ layout: post
 title: Eva Pages Intro
 description: "My Intro"
 author: Eva Pataki
+permalink: /eva
 ---  
 
 ## Hey there!
