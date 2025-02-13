@@ -2,9 +2,9 @@
 
 Hey! I'm Eva Pataki.
 
-I'm working on brushing up my computer skills. It's pretty cool to see how much tech has evolved, especially how students can team up and create projects together. Their creativity is seriously impressive!
+I'm working on brushing up my computer skills. It's pretty cool to see how much tech has evolved, especially how students can team up and create projects together. 
 
-One thing that really blows my mind is the whole virtual desktop thing—being able to work from anywhere and collaborate seamlessly is something I never imagined back in the day.
+One thing that really blows my mind is the virtual desktop thing—being able to work from anywhere and collaborate seamlessly is something I never imagined back in the day.
 
 ## A Throwback Moment
 Just for fun, here's a pic of a classic late '90s computer—similar to what I used as a student:
