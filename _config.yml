@@ -5,16 +5,15 @@ github_username: patakieva
 github_repo: "patakieva_2025" 
 baseurl: "/patakieva_2025"
 future: true
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 minima:
   skin: dark
-  # skin: bright
   social_links:
     - { platform: github, user_url: "https://github.com/patakieva_2025"}
     # - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     # - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
-# remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
