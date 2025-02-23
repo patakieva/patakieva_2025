@@ -1,6 +1,6 @@
-## Hey there!
+# Intro - 2025
 
-Hey! 👋 I'm Eva Pataki.
+Hey! I'm Eva Pataki.
 
 I'm working on brushing up my computer skills. It's pretty cool to see how much tech has evolved, especially how students can team up and create projects together. Their creativity is seriously impressive!
 
@@ -10,8 +10,6 @@ One thing that really blows my mind is the whole virtual desktop thing—being a
 Just for fun, here's a pic of a classic late '90s computer—similar to what I used as a student:
 
 ![1990s Computer](https://tse3.mm.bing.net/th?id=OIP.cyGf5uhbyMD3peZ4H9_RFgHaHa&pid=Api)
-
-
 
 
 Back then, artificial intelligence was just something out of sci-fi movies. It wasn't exactly portrayed in the best light—just look at HAL 9000 from *2001: A Space Odyssey*! Definitely not the best advertisement for AI. 
